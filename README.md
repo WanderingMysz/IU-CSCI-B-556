@@ -1,0 +1,1 @@
+Collected here are my assignment submissions for CSCI-B 556: Applied Machine Learning taught by Professor Zoran Tiganj at IU-Bloomington.
