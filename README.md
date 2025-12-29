@@ -1,1 +1,1 @@
-Collected here are my assignment submissions for CSCI-B 556: Applied Machine Learning taught by Professor Zoran Tiganj at IU-Bloomington.
+Collected here are my assignment submissions for CSCI-B 556: Applied Machine Learning taught by Professor Zoran Tiganj at IU-Bloomington. HW1 Q1's Python code was a group assignment; all other code was by myself alone.
